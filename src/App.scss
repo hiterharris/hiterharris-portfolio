@@ -1,3 +1,5 @@
+// Run SASS: sass --watch ./src/App.scss ./src/App.css
+
 .hero {
   background: url(./assets/images/hero.png);
   height: 100vh;
@@ -5,5 +7,3 @@
   background-size: cover;
   background-position: center;
 }
-
-/*# sourceMappingURL=App.css.map */
